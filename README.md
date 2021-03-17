@@ -19,14 +19,10 @@ Using Sass in real-world projects: setting global variables, building for reusab
 
 The NPM ecosystem: setting up a development process to compile Sass and automatic browser reload, and creating a build process to concatenate, prefix and compress CSS files.
 
-Modern responsive design: fluid grids, layout types, flexible images, using media queries to test for different screen widths, pixel densities and touch capabilities.
+Modern responsive design: layout types, flexible images, using media queries to test for different screen widths and pixel densities.
 
 Advanced responsive design workflows: mobile-first vs desktop-first strategies, selecting breakpoints, em vs rem units and feature queries to test for browser support.
 
 Responsive images in HTML and CSS for faster pageloads: resolution switching, density switching, art direction.
 
-SVG images in HTML and CSS: how and why to use SVG, generating SVG sprites, changing SVG colours in CSS and best practices.
-
 Videos in HTML and CSS: building a background video effect.
-
-How to architect and build a simple grid system with floats. This project uses float layout.
